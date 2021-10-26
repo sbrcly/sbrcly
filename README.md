@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Scott Barclay
 #### I'm a web developer
-![I'm a web developer]
 
 I'm brand new here but my portfolio will be ready by the beginning of December 2021. And my list of planned projects is growing each and every day. So please stay tuned! 
 
