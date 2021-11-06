@@ -11,5 +11,5 @@ Skills: JavaScript / CSS / HTML
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbrcly&theme=gruvbox&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbrcly&theme=gruvbox&show_icons=true)
 
