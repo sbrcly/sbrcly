@@ -5,6 +5,8 @@ I'm brand new here but my portfolio will be ready by the beginning of December 2
 
 Skills: JavaScript / CSS / HTML
 
+Currently working on: React / MongoDB / NodeJS
+
 
 
 
