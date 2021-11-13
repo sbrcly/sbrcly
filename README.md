@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Scott Barclay
 #### I'm a web developer
 
-A web developer currently living in Las Vegas, NV but am
+Currently living in Las Vegas, NV but am
 willing and happy to relocate if need be. You'll be hiring
 someone with a passion for acquiring new skills, building
 things from scratch, and who finds perfect Lighthouse
