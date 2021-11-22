@@ -9,7 +9,7 @@ scores oddly satisfying.
 
 Skills: JavaScript / CSS / HTML
 
-Currently working on: React / MongoDB / NodeJS
+Currently working on: React / Python / SQL
 
 
 
