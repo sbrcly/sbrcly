@@ -1,15 +1,9 @@
-### Hi there 👋, My name is Scott Barclay
-#### I'm a web developer
+Developer currently living in Las Vegas, NV. Willing and happy to relocate if need be. You'll be hiring
+someone with a passion for solving problems and acquiring new skills.
 
-Currently living in Las Vegas, NV but am
-willing and happy to relocate if need be. You'll be hiring
-someone with a passion for acquiring new skills, building
-things from scratch, and who finds perfect Lighthouse
-scores oddly satisfying. 
+Skills: HTML / CSS / JavaScript / Python / SQL
 
-Skills: JavaScript / CSS / HTML
-
-Currently working on: React / Python / SQL
+Currently working on: React
 
 
 
