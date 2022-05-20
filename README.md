@@ -1,4 +1,4 @@
-Developer for Caesars Sportsbook currently living in Las Vegas, NV.
+Developer @ Caesars Sportsbook currently living in Las Vegas, NV.
 
 Languages: JavaScript / NodeJS / Python / MySQL / HTML / CSS
 
