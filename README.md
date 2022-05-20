@@ -1,7 +1,6 @@
-Developer currently living in Las Vegas, NV. Willing and happy to relocate if need be. You'll be hiring
-someone with a passion for solving problems and acquiring new skills.
+Developer for Caesars Sportsbook currently living in Las Vegas, NV.
 
-Skills: HTML / CSS / JavaScript / Python / SQL
+Skills: JavaScript / NodeJS / Python / SQL / HTML / CSS
 
 Currently working on: React
 
