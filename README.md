@@ -2,7 +2,7 @@ Developer @ Caesars Sportsbook currently living in Las Vegas, NV.
 
 Languages: JavaScript / NodeJS / Python / MySQL / HTML / CSS
 
-Frameworks +: NPM / Sass / Bootstrap
+Frameworks: Sass / Bootstrap
 
 Applications: Google Cloud Platform / Looker / PowerBI / BigQuery
 
