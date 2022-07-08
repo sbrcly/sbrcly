@@ -8,7 +8,7 @@ Applications: Google Cloud Platform / Looker / PowerBI / BigQuery
 
 Other: Excel / Terminal / Git
 
-Currently working on: React
+Currently working on: React & MongoDB
 
 
 
