@@ -1,8 +1,8 @@
 Developer @ Caesars Sportsbook currently living in Las Vegas, NV.
 
 Skills: 
-  JavaScript / NodeJS / Python / MySQL / HTML / CSS / MongoDB
-  React / Sass / Bootstrap / Google Cloud Platform / Looker / PowerBI
+  JavaScript / NodeJS / Python / MySQL / HTML / CSS / MongoDB /
+  React / Sass / Bootstrap / Google Cloud Platform / Looker / PowerBI /
   BigQuery / Excel / Terminal / Git
 
 
