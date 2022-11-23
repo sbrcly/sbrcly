@@ -1,4 +1,4 @@
-Developer @ Caesars Sportsbook currently living in Las Vegas, NV.
+Developer @ Etainement currently living in Dallas, TX.
 
 Skills: 
   JavaScript / NodeJS / Python / MySQL / HTML / CSS / MongoDB /
