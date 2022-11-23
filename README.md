@@ -6,10 +6,3 @@ Skills:
   BigQuery / Excel / Terminal / Git
 
 
-
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbrcly&theme=darcula&show_icons=true)
-
