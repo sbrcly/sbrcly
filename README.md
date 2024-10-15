@@ -19,7 +19,7 @@ I’m a full stack developer with a focus on building scalable web applications 
 - IDE: VS Code
 
 ### Notable Projects
-- **[Inventory Checker](#)**: A Chrome extension that automates inventory management workflows for small businesses.
+- **[Arbitrage Tool](https://github.com/sbrcly/Arbitrage-Public)**: An internal sports trading tool for Caesars Sportsbook. This tool leverages multiple APIs to pull live betting data from Caesars Sportsbook and approximately 50 other sportsbooks. It compares Caesars' odds with competitor odds, identifying arbitrage opportunities. Bets with potential arbitrage are displayed in a table that updates every minute. The server-side uses Axios to fetch data and Socket.io to send it to the client in real-time.
 - **[E-Commerce Platform](#)**: A dynamic web application built with Next.js, featuring server-side rendering and integration with a headless CMS for content management.
 - **[Ticket Management System](#)**: A custom-built solution for managing event tickets with real-time data updates and dynamic UI components.
 
