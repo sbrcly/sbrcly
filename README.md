@@ -20,7 +20,7 @@ I’m a full stack developer with a focus on building scalable web applications 
 
 ### Notable Projects
 - **[Arbitrage Tool](https://github.com/sbrcly/Arbitrage-Public)**: An internal sports trading tool for Caesars Sportsbook. This tool leverages multiple APIs to pull live betting data from Caesars Sportsbook and approximately 50 other sportsbooks. Bets with potential arbitrage are displayed in a table that updates every minute.  
-  ![Arbitrage Tool Screenshot](https://your-image-link.com)
+  ![Arbitrage Tool Screenshot](https://user-images.githubusercontent.com/93163082/169880288-3cb09e61-2a11-4940-8607-8a3625321c0f.png)
 
 - **[Odds Display](https://github.com/sbrcly/Odds-Display-Public)**: This application pulls sports betting odds from various sportsbooks. The server-side fetches and stores the data in a Google BigQuery table using APIs, while the client-side displays and updates this data in real-time.  
   ![Odds Display Screenshot](https://your-image-link.com)
