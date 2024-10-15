@@ -3,7 +3,7 @@
 ## Full Stack Developer | React | GCP
 
 ### About Me
-I’m a full stack developer with a focus on building scalable web applications and tools using React, Next.js, and Google Cloud Platform (GCP). With experience in both frontend and backend technologies, I aim to create efficient and user-friendly solutions for complex problems. Currently, I am expanding my knowledge in cloud infrastructure and 3D animations using three.js and Blender.
+I’m a full stack developer specializing in building scalable web applications with React, Next.js, and Google Cloud Platform (GCP). I’m committed to creating solutions that are not only efficient and high-performing but also refined in design, with a focus on delivering seamless, engaging user experiences. My approach blends functionality with attention to detail, ensuring that every application is both practical and aesthetically thoughtful. Currently, I’m expanding my knowledge in cloud infrastructure and exploring 3D animations with three.js and Blender.
 
 ### Skills & Technologies
 - **Programming Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
