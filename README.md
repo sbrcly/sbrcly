@@ -6,7 +6,8 @@
 I’m a full stack developer with a focus on building scalable web applications and tools using React, Next.js, and Google Cloud Platform (GCP). With experience in both frontend and backend technologies, I aim to create efficient and user-friendly solutions for complex problems. Currently, I am expanding my knowledge in cloud infrastructure and 3D animations using three.js and Blender.
 
 ### Skills & Technologies
-- **Frontend**: JavaScript (ES6+), React, Next.js, HTML5, CSS3, Tailwind, Chrome Extensions
+- **Programming Languages**: JavaScript (ES6+), Python
+- **Frontend**: React, Next.js, HTML5, CSS3, Tailwind, Chrome Extensions
 - **Backend**: Node.js, Express, REST APIs
 - **Cloud & DevOps**: Google Cloud Platform (GCP), Firebase, Docker
 - **Version Control**: Git, GitHub
@@ -21,6 +22,8 @@ I’m a full stack developer with a focus on building scalable web applications 
 - Database: MongoDB, Firebase, MySQL, PostgreSQL, BigQuery
 - API Tools: RESTful APIs, GraphQL, Postman
 - Cloud Services: GCP, Firebase, Netlify, Vercel
+- - CMS: WordPress
+- Scripting: Python (for email scraping and spreadsheet automation)
 - IDE: VS Code
 
 </details>
