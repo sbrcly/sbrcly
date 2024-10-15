@@ -5,7 +5,7 @@
 ### About Me
 I’m a full stack developer with a focus on building scalable web applications and tools using React, Next.js, and Google Cloud Platform (GCP). With experience in both frontend and backend technologies, I aim to create efficient and user-friendly solutions for complex problems. Currently, I am expanding my knowledge in cloud infrastructure and 3D animations using three.js and Blender.
 
-<h2 style="background-color:#f0f0f0;padding:10px;border-radius:5px;">Skills & Technologies</h2>
+### Skills & Technologies
 - **Programming Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 - **Frontend**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss) ![Chrome Extensions](https://img.shields.io/badge/-Chrome_Extensions-black?style=flat-square&logo=google-chrome)
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) ![REST APIs](https://img.shields.io/badge/-REST_APIs-black?style=flat-square&logo=postman)
