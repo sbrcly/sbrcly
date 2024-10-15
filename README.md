@@ -12,12 +12,18 @@ I’m a full stack developer with a focus on building scalable web applications 
 - **Version Control**: Git, GitHub
 
 ### Other Tools
+
+<details>
+  <summary>Click to view Other Tools</summary>
+
 - Build Tools: Webpack, Vite
 - CI/CD: GitHub Actions
 - Database: MongoDB, Firebase, MySQL, PostgreSQL, BigQuery
 - API Tools: RESTful APIs, GraphQL, Postman
 - Cloud Services: GCP, Firebase, Netlify, Vercel
 - IDE: VS Code
+
+</details>
 
 ### Notable Projects
 
