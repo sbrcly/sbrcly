@@ -23,14 +23,17 @@ I’m a full stack developer with a focus on building scalable web applications 
   
   ![Arbitrage Tool Screenshot](https://user-images.githubusercontent.com/93163082/169880288-3cb09e61-2a11-4940-8607-8a3625321c0f.png)
 
+
 - **[Odds Display](https://github.com/sbrcly/Odds-Display-Public)**: This application pulls sports betting odds from various sportsbooks. The server-side fetches and stores the data in a Google BigQuery table using APIs, while the client-side displays and updates this data in real-time.
   
   ![image](https://github.com/user-attachments/assets/0ab90e20-eaa5-4dd0-b608-a0420baeacac)
 )
 
+
 - **[Trading Schedule](https://github.com/sbrcly/Trading-Schedule-Public)**: An internal scheduling tool built for Caesars Sportsbook. It pulls in game data from BetRadar and BetGenius APIs and assigns traders to games based on their schedules and league assignments.
   
-  ![Trading Schedule Screenshot]([https://your-image-link.com](https://user-images.githubusercontent.com/93163082/169713029-5ebd3564-bc1a-432f-801f-53b1d80c54ee.png))
+  ![Trading Schedule Screenshot](https://user-images.githubusercontent.com/93163082/169713029-5ebd3564-bc1a-432f-801f-53b1d80c54ee.png)
+
 
 ### GitHub Stats
 ![Scott Barclay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scottbarclay&show_icons=true&theme=default)
