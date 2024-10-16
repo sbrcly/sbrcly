@@ -34,7 +34,7 @@ I’m a full stack developer specializing in building scalable web applications 
   <details>
     <summary>Click to view projects</summary>
 
-    - **[Arbitrage Tool](https://github.com/sbrcly/Arbitrage-Public)**: An internal sports trading tool for Caesars Sportsbook that compares live odds from multiple sportsbooks to find arbitrage opportunities.
+  - **[Arbitrage Tool](https://github.com/sbrcly/Arbitrage-Public)**: An internal sports trading tool for Caesars Sportsbook that compares live odds from multiple sportsbooks to find arbitrage opportunities.
   
   <details>
     <summary>Read more about Arbitrage Tool</summary>
