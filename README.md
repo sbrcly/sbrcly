@@ -23,7 +23,7 @@ I’m a full stack developer specializing in building scalable web applications 
 - Database: MongoDB, Firebase, MySQL, PostgreSQL, BigQuery
 - API Tools: RESTful APIs, GraphQL, Postman
 - Cloud Services: GCP, Firebase, Netlify, Vercel
-- - CMS: WordPress
+- CMS: WordPress
 - Scripting: Python (for email scraping and spreadsheet automation)
 - IDE: VS Code
 
