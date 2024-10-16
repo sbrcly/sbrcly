@@ -31,7 +31,10 @@ I’m a full stack developer specializing in building scalable web applications 
 
 ### Notable Projects
 
-- **[Arbitrage Tool](https://github.com/sbrcly/Arbitrage-Public)**: An internal sports trading tool for Caesars Sportsbook that compares live odds from multiple sportsbooks to find arbitrage opportunities.
+  <details>
+    <summary>View Projects</summary>
+
+    - **[Arbitrage Tool](https://github.com/sbrcly/Arbitrage-Public)**: An internal sports trading tool for Caesars Sportsbook that compares live odds from multiple sportsbooks to find arbitrage opportunities.
   
   <details>
     <summary>Read more about Arbitrage Tool</summary>
@@ -63,6 +66,8 @@ I’m a full stack developer specializing in building scalable web applications 
   ![Trading Schedule Screenshot](https://user-images.githubusercontent.com/93163082/169713029-5ebd3564-bc1a-432f-801f-53b1d80c54ee.png)
 
 ---
+  </details>
+  
 
 ### GitHub Stats
 ![Scott Barclay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scottbarclay&show_icons=true&theme=default)
