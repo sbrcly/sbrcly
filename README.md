@@ -16,7 +16,7 @@ I’m a full stack developer specializing in building scalable web applications 
 ### Other Tools
 
 <details>
-  <summary>Click to view Other Tools</summary>
+  <summary>Click to view tools</summary>
 
 - Build Tools: Webpack, Vite
 - CI/CD: GitHub Actions
@@ -32,7 +32,7 @@ I’m a full stack developer specializing in building scalable web applications 
 ### Notable Projects
 
   <details>
-    <summary>View Projects</summary>
+    <summary>Click to view projects</summary>
 
     - **[Arbitrage Tool](https://github.com/sbrcly/Arbitrage-Public)**: An internal sports trading tool for Caesars Sportsbook that compares live odds from multiple sportsbooks to find arbitrage opportunities.
   
