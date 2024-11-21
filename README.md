@@ -69,10 +69,6 @@ I’m a full stack developer specializing in building scalable web applications 
 
 ---
   </details>
-  
-
-### GitHub Stats
-![Scott Barclay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scottbarclay&show_icons=true&theme=dark)
 
 
 ### Contact
